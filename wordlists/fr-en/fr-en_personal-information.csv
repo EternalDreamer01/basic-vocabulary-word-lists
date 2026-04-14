@@ -5,7 +5,15 @@ country;le pays;;basic, personal-information
 place of birth;le lieu de naissance;;basic, personal-information
 date of birth;la date de naissance;;basic, personal-information
 profession, job;la profession;;basic, personal-information
+gender;le genre;;basic, personal-information
 man;l’homme;;basic, personal-information
 woman;la femme;;basic, personal-information
+non-binary;non-binaire;;basic, personal-information
 adult;l’adulte;;basic, personal-information
+teenager;l'adolescent;;basic, personal-information
+age;l'age;;basic, personal-information
+elder;l'ainé;;basic, personal-information
+old;agé;;basic, personal-information
+title;le titre;;basic, personal-information
 child;l’enfant;;basic, personal-information
+baby;le bébé;;basic, personal-information

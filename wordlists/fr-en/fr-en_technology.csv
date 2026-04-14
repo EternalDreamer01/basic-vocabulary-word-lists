@@ -1,5 +1,28 @@
 internet;l’internet;;basic, technology
 password;le mot de passe;;basic, technology
 computer;l’ordinateur;;basic, technology
+laptop;l’ordinateur portable;;basic, technology
 socket;la prise;;basic, technology
 to recharge;charger;;basic, technology, verb
+software;le logiciel;;basic, technology
+keyboard;le clavier;;basic, technology
+mouse;la souris;;basic, technology
+earphone;l'écouteur;;basic, technology
+headphones;le casque;;basic, technology
+screen;l'écran;;basic, technology
+speakers;les enceintes;;basic, technology
+usb drive;la clé usb;;basic, technology
+operating system;le système d'exploitation;;basic, technology
+browser;le navigateur;;basic, technology
+search engine;le moteur de recherche;;basic, technology
+website;le site web;;basic, technology
+firewall;le pare-feu;;basic, technology
+network;le réseau;;basic, technology
+router;le routeur;;basic, technology
+algorithm;l'algorithme;;basic, technology
+database;la base de données;;basic, technology
+query;la requête;;basic, technology
+programming;;la programmation;;basic, technology
+encryption;chiffrement;;basic, technology
+folder;le dossier;;basic, technology
+file;le fichier;;basic, technology

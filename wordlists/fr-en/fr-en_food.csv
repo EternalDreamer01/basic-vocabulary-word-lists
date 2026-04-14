@@ -1,27 +1,70 @@
-food;le repas;;basic, food
+food;la nourriture;;basic, food
 restaurant;le restaurant;;basic, food
-café;le café;;basic, food
 bar;le bar;;basic, food
+sweet;sucré;;basic, food
+sugar;le sucre;;basic, food
+salt;le sel;;basic, food
+salty;salé;;basic, food
+spicy;pimenté;;basic, food
+butter;le beurre;
 menu;le menu;;basic, food
 starter;l’entrée;;basic, food
 main course;le plat principal;;basic, food
 dessert;le dessert;;basic, food
 bill;l’addition;;basic, food
-vegetarian;végétarien(ne);;basic, food
+vegetarian;végétarien;;basic, food
 vegan;végan;;basic, food
 gluten-free;sans gluten;;basic, food
+vegetables;les légumes;;basic, food
+non-alcoholic;sans alcool;;basic, food
+Cheers!;À ta santé !;;basic, food
 fish ;le poisson ;;basic, food
 meat;la viande;;basic, food
 salad;la salade;;basic, food
 milk;le lait;;basic, food
 cheese;le fromage;;basic, food
 fruits;les fruits;;basic, food
-vegetables;les légumes;;basic, food
 nuts;les noix;;basic, food
 coffee;le café;;basic, food
 tea ;le thé ;;basic, food
 water;l’eau;;basic, food
 wine;le vin;;basic, food
 beer ;la bière ;;basic, food
-non-alcoholic;sans alcool;;basic, food
-Cheers!;À ta santé !;;basic, food
+strawberry;la fraise;;basic, food
+raspberry;la framboise;;basic, food
+blueberry;la myrtille;;basic, food
+lemon;le citron;;basic, food
+apple;la pomme;;basic, food
+potato;la pomme de terre, patate;;basic, food
+pineapple;l'ananas;;basic, food
+banana;la banane;;basic, food
+carrot;la carotte;;basic, food
+onion;l'oignon;;basic, food
+watermelon;la pastèque;;basic, food
+melon;le melon;;basic, food
+kiwi;le kiwi;;basic, food
+orange;l'orange;;basic, food
+cauliflower;le choufleur;;basic, food
+peach;la pêche;;basic, food
+avocado;l'avocat;;basic, food
+pepper;le poivron;;basic, food
+pepper;le poivre;;basic, food
+mushroom;le champignon;;basic, food
+tomato;la tomate;;basic, food
+grape;le raisin;;basic, food
+aubergine;l'aubergine;;basic, food
+broccoli;le brocoli;;basic, food
+cherry;la cerise;;basic, food
+pear;la poire;;basic, food
+cabbage;le chou;;basic, food
+beetroot;la betterave;;basic, food
+mango;la mangue;;basic, food
+papaya;la papaye;;basic, food
+passion fruit;le fruit de la passion;;basic, food
+olive;l'olive;;basic, food
+fig;la figue;;basic, food
+grapefruit;le pamplemousse;;basic, food
+hot pepper;le piment;;basic, food
+yogurt;le yaourt;;basic, food
+ice-cream; la glace;;basic, food
+oil;l'huile;;basic, food

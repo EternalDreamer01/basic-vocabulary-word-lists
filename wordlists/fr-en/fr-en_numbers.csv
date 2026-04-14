@@ -1,3 +1,11 @@
+minus;moins;;basic, numbers
+plus;plus;;basic, numbers
+power;puissance;;numbers
+divided;divisé;;numbers
+multiply;multiplier;;numbers
+times;fois;;numbers
+percent;pourcent;;numbers
+zero;zero;;basic, numbers
 one;un;;basic, numbers
 two ;deux ;;basic, numbers
 three;trois;;basic, numbers
@@ -8,7 +16,18 @@ seven;sept;;basic, numbers
 eight;huit;;basic, numbers
 nine;neuf;;basic, numbers
 ten;dix;;basic, numbers
+eleven;onze;;basic, numbers
+twelve;douze;;basic, numbers
+thirteen;treize;;basic, numbers
+fourteen;quatorze;;basic, numbers
+fifteen;quinze;;basic, numbers
+sixteen;seize;;basic, numbers
+seventeen;dix-sept;;basic, numbers
+eighteen;dix-huit;;basic, numbers
+nineteen;dix-neuf;;basic, numbers
 twenty;vingt;;basic, numbers
 fifty;cinquante;;basic, numbers
 hundred;cent;;basic, numbers
 thousand;mille;;basic, numbers
+million;million;;basic, numbers
+milliard;billion;;basic, numbers
