@@ -1,0 +1,829 @@
+at night;la nuit;;basic, time
+day;le jour;;basic, time
+delayed;en retard;;basic, time
+earlier;plus tôt;;basic, time
+Friday;vendredi;;basic, time
+in the afternoon;l'après-midi;;basic, time
+in the evening;le soir;;basic, time
+in the morning;le matin;;basic, time
+later;plus tard;;basic, time
+Monday;lundi;;basic, time
+month;le mois;;basic, time
+on time;à l'heure;;basic, time
+Saturday;samedi;;basic, time
+Sunday;dimanche;;basic, time
+Thursday;jeudi;;basic, time
+time;le temps;;basic, time
+Tuesday;mardi;;basic, time
+Wednesday;mercredi;;basic, time
+week;la semaine;;basic, time
+year;l’année;;basic, time
+blended family;famille recomposée;;family
+brother;le frère;;family
+cousin;cousin;;family
+dad;le papa;;family
+daughter;la fille;;family
+family;la famille;;family
+father;le père;;family
+half-brother;demi-frère;;family
+mom;la maman;;family
+mother;la mère;;family
+relation;la relation;;family
+ring;la bague;;family
+sister;la sœur;;family
+son;le fils;;family
+stepmom;belle-mère;;family
+wedding;le mariage;;family
+bad;mauvais(e);;basic, adjective
+beautiful;beau/belle;;basic, adjective
+big;grand(e);;basic, adjective
+bright;clair(e);;basic, adjective
+cheap;pas cher/chère;;basic, adjective
+dark;sombre;;basic, adjective
+expensive;cher/chère;;basic, adjective
+good;bon(ne);;basic, adjective
+important;important(e);;basic, adjective
+new;nouveau/nouvelle;;basic, adjective
+old;vieux/vieille;;basic, adjective
+separate;séparé(e);;basic, adjective
+small;petit(e);;basic, adjective
+tired;fatigué(e);;basic, adjective
+together;ensemble;;basic, adjective
+young;jeune;;basic, adjective
+How …?;Comment …?;;basic, sentences, questions
+How long does it take?;Ça prendra combien de temps ?;;basic, sentences, questions
+How much is it?;Ça coûte combien ?;;basic, sentences, questions
+I need ...;J'ai besoin de ...;;basic, sentences
+Is there …?;Il y a ... ?;;basic, sentences, questions
+I would like ...;Je voudrais ...;;basic, sentences
+No problem!;Pas de problème !;;basic, sentences
+What is …?;Qu’est-ce que c’est ... ?;;basic, sentences, questions
+Where is …?;Où est ... ?;;basic, sentences, questions
+divided;divisé;;numbers
+eighteen;dix-huit;;basic, numbers
+eight;huit;;basic, numbers
+eleven;onze;;basic, numbers
+fifteen;quinze;;basic, numbers
+fifty;cinquante;;basic, numbers
+five;cinq;;basic, numbers
+four;quatre;;basic, numbers
+fourteen;quatorze;;basic, numbers
+hundred;cent;;basic, numbers
+milliard;billion;;basic, numbers
+million;million;;basic, numbers
+minus;moins;;basic, numbers
+multiply;multiplier;;numbers
+nine;neuf;;basic, numbers
+nineteen;dix-neuf;;basic, numbers
+one;un;;basic, numbers
+percent;pourcent;;numbers
+plus;plus;;basic, numbers
+power;puissance;;numbers
+seven;sept;;basic, numbers
+seventeen;dix-sept;;basic, numbers
+six;six;;basic, numbers
+sixteen;seize;;basic, numbers
+ten;dix;;basic, numbers
+thirteen;treize;;basic, numbers
+thousand;mille;;basic, numbers
+three;trois;;basic, numbers
+times;fois;;numbers
+twelve;douze;;basic, numbers
+twenty;vingt;;basic, numbers
+two;deux;;basic, numbers
+zero;zero;;basic, numbers
+apartment;l’appartement;;basic, surrounding
+beach;la plage;;basic, surrounding
+forest;le forêt;;basic, surrounding
+hotel;l’hôtel;;basic, surrounding
+house;la maison;;basic, surrounding
+lake;le lac;;basic, surrounding
+mountain;la montagne;;basic, surrounding
+museum;le musée;;basic, surrounding
+park;le parc;;basic, surrounding
+rain;la pluie;;basic, surrounding
+river;la rivière;;basic, surrounding
+sea;la mer;;basic, surrounding
+snow;la neige;;basic, surrounding
+sun;le soleil;;basic, surrounding
+thunderstorm;l’orage;;basic, surrounding
+weather;le temps;;basic, surrounding
+back;retour;;basic, orientation
+direction;la direction;;basic, orientation
+entrance;l’entrée;;basic, orientation
+exit;la sortie;;basic, orientation
+left;à gauche;;basic, orientation
+right;à droite;;basic, orientation
+square;la place;;basic, orientation
+straight ahead;tout droit;;basic, orientation
+street;la rue;;basic, orientation
+way;le chemin;;basic, orientation
+apartement;appartement;;house
+armchair;le fauteuil;;house
+balcony;la terasse;;house
+bathroom;la salle de bain;;house
+bathtub;la baignoire;;house
+bed;le lit;;house
+bedroom;la chambre;;house
+book;le livre;;house
+building;l'immeuble;;house
+carpet;le tapis;;house
+ceiling;le plafond;;house
+chair;la chaise;;house
+coffee table;la table basse;;house
+cupboard;le placard;;house
+desk;le bureau;;house
+dining room;la salle à manger;;house
+dishwasher;le lave-vaisselle;;house
+door;la porte;;house
+doormat;le paillasson;;house
+drawer;le tiroir;;house
+dryer;le sèche-linge;;house
+duster;le chiffon;;house
+floor;l'étage;;house
+fridge;le réfrigérateur;;house
+furniture;meuble;;house
+ground floor;le rez-de-chaussée;;house
+ground;le sol;;house
+hotplate;la plaque de cuisson;;house
+house;la maison;;house
+kitchen;la cuisine;;house
+lamp;la lampe;;house
+lightbulb;l'ampoule;;house
+living room;le salon;;house
+microwave;le micro-ondes;;house
+mirror;le mirroir;;house
+neighbour;le voisin;;house
+office;le bureau;;house
+oven;le four;;house
+pillow;le coussin;;house
+roof;le toit;;house
+sheet;le drap;;house
+shower;la douche;;house
+sink;le lavabo;;house
+sofa;le canapé;;house
+table;la table;;house
+to cook;cuisiner;;house
+toilet;les toilettes;;house
+to rest;se reposer;;house
+to sleep;dormir;;house
+towel;la serviette;;house
+trash;la poubelle;;house
+wardrobe;l'amoire;;house
+washer;le lave-linge;;house
+window;la fenêtre;;house
+boot;la botte;;clothes
+boxer short;le caleçon;;clothes
+bra;le soutien-gorge;;clothes
+coat;le manteau;;clothes
+collar;le col;;clothes
+dress;robe;;clothes
+earring;la boucle d'oreille;;clothes
+glasses;les lunettes;;clothes
+hat;le chapeau;;clothes
+jacket;le gilet;;clothes
+knickers;la culotte;;clothes
+pair of trainers;la paire de baskets;;clothes
+pants;le slip;;clothes
+put on;mettre;;clothes
+pyjama;le pyjama;;clothes
+ring;la bague;;clothes
+scarf;l'écharpe;;clothes
+shirt;la chemise;;clothes
+shoe;la chaussure;;clothes
+skirt;la jupe;;clothes
+sleeve;la manche;;clothes
+sock;la chaussette;;clothes
+sweatshirt;le sweat;;clothes
+trousers;le pantalon;;clothes
+try on;essayer;;clothes
+t-shirt;le t-shirt;;clothes
+underwear;le sous-vêtement;;clothes
+watch;la montre;;clothes
+wear;porter;;clothes
+to appreciate;apprécier;;mood
+to be afraid;avoir peur;;mood
+to be aggressive;être aggressif;;mood
+to be alone;être seul(e);;mood
+to be amazed;être émerveillé;;mood
+to be amazed;être impressionné(e);;mood
+to be angry;être en colère;;mood
+to be annoyed;être ennuyé(e);;mood
+to be anxious;être anxieux;;mood
+to be apathetic;être apatique;;mood
+to be aware;être conscient(e);;mood
+to be bitter;être amer;;mood
+to be calm;être calme;;mood
+to be cautious;être prudent(e);;mood
+to be clingy to someone;être collant avec quelqu'un;;mood
+to be cold;être froid(e);;mood
+to be comfortable;être à l'aise;;mood
+to be compassionate;être compatissant;;mood
+to be confident;être confiant(e);;mood
+to be confused;être confus(e);;mood
+to be courageous;être courageux;;mood
+to be cruel;être cruel(le);;mood
+to be curious;être curieux;;mood
+to be defeated;être vaincu;;mood
+to be defensive;être sur la défensive;;mood
+to be depressed;être déprimé(e);;mood
+to be desperated;être desespéré(e);;mood
+to be despised;être méprisé(e);;mood
+to be determined;être déterminé(e);;mood
+to be disappointed;être déçu(e);;mood
+to be disgusted;être dégouté;;mood
+to be distracted;être distrait(e);;mood
+to be doubtful;être dubitatif;;mood
+to be empatethic;être empathique;;mood
+to be excited;être excité;;mood
+to be focused;être concentré(e);;mood
+to be free;être libre;;mood
+to be friendly;être amical(e);;mood
+to be frustrated;être frustré(e);;mood
+to be funny;être drôle;;mood
+to be glad;être content;;mood
+to be grateful;être reconnaissant(e);;mood
+to be happy;être heureux;;mood
+to be heartbroken;avoir le coeur brisé;;mood
+to be horrified;être horrifié(e);;mood
+to be humble;être humble;;mood
+to be hurt;être blessé(e);;mood
+to be impatient;être impatient(e);;mood
+to be in denial;être dans le déni;;mood
+to be in distress;être en détresse;;mood
+to be inspired;être inspiré(e);;mood
+to be jealous of someone;jalouser quelqu'un;;mood
+to be kind;être gentil(le);;mood
+to be lost;être perdu(e);;mood
+to be loyal;être loyal(e);;mood
+to be mean;être méchant(e);;mood
+to be melancholic;être mélancholique;;mood
+to be nervous;être nerveux;;mood
+to be nostalogic;être nostalgique;;mood
+to be optimistic;être optimiste;;mood
+to be overwhelmed;être submergé(e);;mood
+to be panicked;être paniqué(e);;mood
+to be paranoid;être paranoïaque;;mood
+to be patient;être patient(e);;mood
+to be pensive;être pensif;;mood
+to be pessimistic;être pessimiste;;mood
+to be protective;être protecteur;;mood
+to be proud;être fier;;mood
+to be reluctant;être réticent(e);;mood
+to be romantic;être romatique;;mood
+to be sad;être triste;;mood
+to be satisfied;être satisfait;;mood
+to be sensual;être sensuel(le);;mood
+to be sentimental;être sentimental(e);;mood
+to be sexy;être sexy;;mood
+to be shocked;être choqué(e);;mood
+to be shy;être timide;;mood
+to be skeptical;être sceptique;;mood
+to be stressed;être stressé(e);;mood
+to be submissive to someone;être soumis(e) à quelqu'un;;mood
+to be surprised;être surpris(e);;mood
+to be suspicious;être suspicieux;;mood
+to be tender;être tendre;;mood
+to be terrified;être terrifié(e);;mood
+to be tired;être fatigué(e);;mood
+to be understanding;être compréhensif;;mood
+to be vigilant;être vigilant(e);;mood
+to be warmed;être chaleureux;;mood
+to cheat on a partner;tromper un partenaire;;mood
+to desire;désirer;;mood
+to dislike;ne pas aimer;;mood
+to envy;envier;;mood
+to feel empty;se sentir vide;;mood
+to feel guilty;se sentir coupable;;mood
+to feel hopeless;se sentir désespéré(e);;mood
+to feel insecure;se sentir en insécurité;;mood
+to feel miserable;se sentir misérable;;mood
+to feel offended;se sentir offensé(e);;mood
+to feel pain;avoir mal;;mood
+to feel resigned;se sentir résigné(e);;mood
+to feel shame;ressentir de la honte;;mood
+to feel vulnerable;se sentir vulnérable;;mood
+to have grief;avoir du chagrin;;mood
+to have pity;avoir pitié;;mood
+to have regrets;avoir des regrets;;mood
+to have remorses;avoir des remords;;mood
+to hope;espérer;;mood
+to insult;insulter;;mood
+to suffer;souffrir;;mood
+to think;réflechir;;mood
+to wonder;se demander;;mood
+apartement;appartement;;house
+apartment;l’appartement;;basic, surrounding
+armchair;le fauteuil;;house
+at night;la nuit;;basic, time
+back;retour;;basic, orientation
+bad;mauvais(e);;basic, adjective
+balcony;la terasse;;house
+bathroom;la salle de bain;;house
+bathtub;la baignoire;;house
+beach;la plage;;basic, surrounding
+beautiful;beau/belle;;basic, adjective
+bed;le lit;;house
+bedroom;la chambre;;house
+big;grand(e);;basic, adjective
+blended family;famille recomposée;;family
+book;le livre;;house
+boot;la botte;;clothes
+boxer short;le caleçon;;clothes
+bra;le soutien-gorge;;clothes
+bright;clair(e);;basic, adjective
+brother;le frère;;family
+building;l'immeuble;;house
+carpet;le tapis;;house
+ceiling;le plafond;;house
+chair;la chaise;;house
+cheap;pas cher/chère;;basic, adjective
+coat;le manteau;;clothes
+coffee table;la table basse;;house
+collar;le col;;clothes
+cousin;cousin;;family
+cupboard;le placard;;house
+dad;le papa;;family
+dark;sombre;;basic, adjective
+daughter;la fille;;family
+day;le jour;;basic, time
+delayed;en retard;;basic, time
+desk;le bureau;;house
+dining room;la salle à manger;;house
+direction;la direction;;basic, orientation
+dishwasher;le lave-vaisselle;;house
+divided;divisé;;numbers
+door;la porte;;house
+doormat;le paillasson;;house
+drawer;le tiroir;;house
+dress;robe;;clothes
+dryer;le sèche-linge;;house
+duster;le chiffon;;house
+earlier;plus tôt;;basic, time
+earring;la boucle d'oreille;;clothes
+eighteen;dix-huit;;basic, numbers
+eight;huit;;basic, numbers
+eleven;onze;;basic, numbers
+entrance;l’entrée;;basic, orientation
+exit;la sortie;;basic, orientation
+expensive;cher/chère;;basic, adjective
+family;la famille;;family
+father;le père;;family
+fifteen;quinze;;basic, numbers
+fifty;cinquante;;basic, numbers
+five;cinq;;basic, numbers
+floor;l'étage;;house
+forest;le forêt;;basic, surrounding
+four;quatre;;basic, numbers
+fourteen;quatorze;;basic, numbers
+Friday;vendredi;;basic, time
+fridge;le réfrigérateur;;house
+furniture;meuble;;house
+glasses;les lunettes;;clothes
+good;bon(ne);;basic, adjective
+ground floor;le rez-de-chaussée;;house
+ground;le sol;;house
+half-brother;demi-frère;;family
+hat;le chapeau;;clothes
+hotel;l’hôtel;;basic, surrounding
+hotplate;la plaque de cuisson;;house
+house;la maison;;basic, surrounding
+house;la maison;;house
+How …?;Comment …?;;basic, sentences, questions
+How long does it take?;Ça prendra combien de temps ?;;basic, sentences, questions
+How much is it?;Ça coûte combien ?;;basic, sentences, questions
+hundred;cent;;basic, numbers
+important;important(e);;basic, adjective
+I need ...;J'ai besoin de ...;;basic, sentences
+in the afternoon;l'après-midi;;basic, time
+in the evening;le soir;;basic, time
+in the morning;le matin;;basic, time
+Is there …?;Il y a ... ?;;basic, sentences, questions
+I would like ...;Je voudrais ...;;basic, sentences
+jacket;le gilet;;clothes
+kitchen;la cuisine;;house
+knickers;la culotte;;clothes
+lake;le lac;;basic, surrounding
+lamp;la lampe;;house
+later;plus tard;;basic, time
+left;à gauche;;basic, orientation
+lightbulb;l'ampoule;;house
+living room;le salon;;house
+microwave;le micro-ondes;;house
+milliard;billion;;basic, numbers
+million;million;;basic, numbers
+minus;moins;;basic, numbers
+mirror;le mirroir;;house
+mom;la maman;;family
+Monday;lundi;;basic, time
+month;le mois;;basic, time
+mother;la mère;;family
+mountain;la montagne;;basic, surrounding
+multiply;multiplier;;numbers
+museum;le musée;;basic, surrounding
+neighbour;le voisin;;house
+new;nouveau/nouvelle;;basic, adjective
+nine;neuf;;basic, numbers
+nineteen;dix-neuf;;basic, numbers
+No problem!;Pas de problème !;;basic, sentences
+office;le bureau;;house
+old;vieux/vieille;;basic, adjective
+one;un;;basic, numbers
+on time;à l'heure;;basic, time
+oven;le four;;house
+pair of trainers;la paire de baskets;;clothes
+pants;le slip;;clothes
+park;le parc;;basic, surrounding
+percent;pourcent;;numbers
+pillow;le coussin;;house
+plus;plus;;basic, numbers
+power;puissance;;numbers
+put on;mettre;;clothes
+pyjama;le pyjama;;clothes
+rain;la pluie;;basic, surrounding
+relation;la relation;;family
+right;à droite;;basic, orientation
+ring;la bague;;clothes
+ring;la bague;;family
+river;la rivière;;basic, surrounding
+roof;le toit;;house
+Saturday;samedi;;basic, time
+scarf;l'écharpe;;clothes
+sea;la mer;;basic, surrounding
+separate;séparé(e);;basic, adjective
+seven;sept;;basic, numbers
+seventeen;dix-sept;;basic, numbers
+sheet;le drap;;house
+shirt;la chemise;;clothes
+shoe;la chaussure;;clothes
+shower;la douche;;house
+sink;le lavabo;;house
+sister;la sœur;;family
+six;six;;basic, numbers
+sixteen;seize;;basic, numbers
+skirt;la jupe;;clothes
+sleeve;la manche;;clothes
+small;petit(e);;basic, adjective
+snow;la neige;;basic, surrounding
+sock;la chaussette;;clothes
+sofa;le canapé;;house
+son;le fils;;family
+square;la place;;basic, orientation
+stepmom;belle-mère;;family
+straight ahead;tout droit;;basic, orientation
+street;la rue;;basic, orientation
+Sunday;dimanche;;basic, time
+sun;le soleil;;basic, surrounding
+sweatshirt;le sweat;;clothes
+table;la table;;house
+ten;dix;;basic, numbers
+thirteen;treize;;basic, numbers
+thousand;mille;;basic, numbers
+three;trois;;basic, numbers
+thunderstorm;l’orage;;basic, surrounding
+Thursday;jeudi;;basic, time
+time;le temps;;basic, time
+times;fois;;numbers
+tired;fatigué(e);;basic, adjective
+to appreciate;apprécier;;mood
+to be afraid;avoir peur;;mood
+to be aggressive;être aggressif;;mood
+to be alone;être seul(e);;mood
+to be amazed;être émerveillé;;mood
+to be amazed;être impressionné(e);;mood
+to be angry;être en colère;;mood
+to be annoyed;être ennuyé(e);;mood
+to be anxious;être anxieux;;mood
+to be apathetic;être apatique;;mood
+to be aware;être conscient(e);;mood
+to be bitter;être amer;;mood
+to be calm;être calme;;mood
+to be cautious;être prudent(e);;mood
+to be clingy to someone;être collant avec quelqu'un;;mood
+to be cold;être froid(e);;mood
+to be comfortable;être à l'aise;;mood
+to be compassionate;être compatissant;;mood
+to be confident;être confiant(e);;mood
+to be confused;être confus(e);;mood
+to be courageous;être courageux;;mood
+to be cruel;être cruel(le);;mood
+to be curious;être curieux;;mood
+to be defeated;être vaincu;;mood
+to be defensive;être sur la défensive;;mood
+to be depressed;être déprimé(e);;mood
+to be desperated;être desespéré(e);;mood
+to be despised;être méprisé(e);;mood
+to be determined;être déterminé(e);;mood
+to be disappointed;être déçu(e);;mood
+to be disgusted;être dégouté;;mood
+to be distracted;être distrait(e);;mood
+to be doubtful;être dubitatif;;mood
+to be empatethic;être empathique;;mood
+to be excited;être excité;;mood
+to be focused;être concentré(e);;mood
+to be free;être libre;;mood
+to be friendly;être amical(e);;mood
+to be frustrated;être frustré(e);;mood
+to be funny;être drôle;;mood
+to be glad;être content;;mood
+to be grateful;être reconnaissant(e);;mood
+to be happy;être heureux;;mood
+to be heartbroken;avoir le coeur brisé;;mood
+to be horrified;être horrifié(e);;mood
+to be humble;être humble;;mood
+to be hurt;être blessé(e);;mood
+to be impatient;être impatient(e);;mood
+to be in denial;être dans le déni;;mood
+to be in distress;être en détresse;;mood
+to be inspired;être inspiré(e);;mood
+to be jealous of someone;jalouser quelq
+to cook;cuisiner;;house
+together;ensemble;;basic, adjective
+toilet;les toilettes;;house
+to rest;se reposer;;house
+to sleep;dormir;;house
+towel;la serviette;;house
+trash;la poubelle;;house
+trousers;le pantalon;;clothes
+try on;essayer;;clothes
+t-shirt;le t-shirt;;clothes
+Tuesday;mardi;;basic, time
+twelve;douze;;basic, numbers
+twenty;vingt;;basic, numbers
+two;deux;;basic, numbers
+underwear;le sous-vêtement;;clothes
+wardrobe;l'amoire;;house
+washer;le lave-linge;;house
+watch;la montre;;clothes
+way;le chemin;;basic, orientation
+wear;porter;;clothes
+weather;le temps;;basic, surrounding
+wedding;le mariage;;family
+Wednesday;mercredi;;basic, time
+week;la semaine;;basic, time
+What is …?;Qu’est-ce que c’est ... ?;;basic, sentences, questions
+Where is …?;Où est ... ?;;basic, sentences, questions
+window;la fenêtre;;house
+year;l’année;;basic, time
+young;jeune;;basic, adjective
+zero;zero;;basic, numbers
+address;l’adresse;;basic, personal-information
+adult;l’adulte;;basic, personal-information
+age;l'age;;basic, personal-information
+baby;le bébé;;basic, personal-information
+child;l’enfant;;basic, personal-information
+country;le pays;;basic, personal-information
+date of birth;la date de naissance;;basic, personal-information
+elder;l'ainé;;basic, personal-information
+first name;le prénom;;basic, personal-information
+gender;le genre;;basic, personal-information
+last name;le nom de famille;;basic, personal-information
+man;l’homme;;basic, personal-information
+non-binary;non-binaire;;basic, personal-information
+old;agé;;basic, personal-information
+place of birth;le lieu de naissance;;basic, personal-information
+profession, job;la profession;;basic, personal-information
+teenager;l'adolescent;;basic, personal-information
+title;le titre;;basic, personal-information
+woman;la femme;;basic, personal-information
+ankle;la cheville;;basic, health, body
+arm;le bras;;basic, health, body
+back;le dos;;basic, health, body
+buttocks;les fesses;;basic, health, body
+chest;la poitrine;;basic, health, body
+ear;l'oreille;;basic, health, body
+eyebrow;le sourcil;;basic, health, body
+eyelash;le cil;;basic, health, body
+eyes;les yeux;;basic, health, body
+face;le visage;;basic, health, body
+finger;le doigt;;basic, health, body
+foot;le pied;;basic, health, body
+hair;les cheveux;;basic, health, body
+hand;la main;;basic, health, body
+head;la tête;;basic, health, body
+leg;la jambe;;basic, health, body
+lip;la lèvre;;basic, health, body
+mouth;la bouche;;basic, health, body
+nail;l'ongle;;basic, health, body
+neck;le cou;;basic, health, body
+nose;le nez;;basic, health, body
+penis;le pénis;;basic, health, body
+pupil;la pupille;;basic, health, body
+shoulder;l'épaule;;basic, health, body
+stomach;l’abdomen;;basic, health, body
+vagina;le vagin;;basic, health, body
+wrist;le poignet;;basic, health, body
+doctor;le/la médecin;;basic, health
+hospital;l’hôpital;;basic, health
+medicine;le médicament;;basic, health
+painkiller;l’antidouleur;;basic, health
+pain;la douleur;;basic, health, body
+pharmacy;la pharmacie;;basic, health
+black;noir;;basic, color
+blue;bleu;;basic, color
+brown;marron;;basic, color
+colorful;coloré;;basic, color
+color;la couleur;;basic, color
+green;vert;;basic, color
+multicoloured;multicolore;;basic, color
+orange;orange;;basic, color
+pink;rose;;basic, color
+purple;violet;;basic, color
+red;rouge;;basic, color
+white;blanc;;basic, color
+yellow;jaune;;basic, color
+bicycle;le vélo;;basic, transport
+bus;le bus;;basic, transport
+bus station;la gare routière;;basic, transport
+car;la voiture;;basic, transport
+on foot;à pied;;basic, transport
+stop;la station;;basic, transport
+taxi, cab;le taxi;;basic, transport
+train;le train;;basic, transport
+train station;la gare;;basic, transport
+tram;le tramway;;basic, transport
+bag;le sac;;basic, shopping
+bank card;la carte bancaire;;basic, shopping
+cash;l’argent;;basic, shopping
+condom;le préservatif;;basic, shopping
+help;l’aide;;basic, shopping
+police;la police;;basic, shopping
+(sanitary) pad;la serviette hygiénique;;basic, shopping
+supermarket;le supermarché;;basic, shopping
+tampon;le tampon;;basic, shopping
+toothbrush;la brosse à dents;;basic, shopping
+apple;la pomme;;basic, food
+aubergine;l'aubergine;;basic, food
+avocado;l'avocat;;basic, food
+banana;la banane;;basic, food
+bar;le bar;;basic, food
+beer;la bière;;basic, food
+beetroot;la betterave;;basic, food
+bill;l’addition;;basic, food
+blueberry;la myrtille;;basic, food
+broccoli;le brocoli;;basic, food
+butter;le beurre;
+cabbage;le chou;;basic, food
+carrot;la carotte;;basic, food
+cauliflower;le choufleur;;basic, food
+Cheers!;À ta santé !;;basic, food
+cheese;le fromage;;basic, food
+cherry;la cerise;;basic, food
+coffee;le café;;basic, food
+dessert;le dessert;;basic, food
+fig;la figue;;basic, food
+fish;le poisson;;basic, food
+food;la nourriture;;basic, food
+fruits;les fruits;;basic, food
+gluten-free;sans gluten;;basic, food
+grapefruit;le pamplemousse;;basic, food
+grape;le raisin;;basic, food
+hot pepper;le piment;;basic, food
+ice cream;la glace;;basic, food
+kiwi;le kiwi;;basic, food
+lemon;le citron;;basic, food
+main course;le plat principal;;basic, food
+mango;la mangue;;basic, food
+meat;la viande;;basic, food
+melon;le melon;;basic, food
+menu;le menu;;basic, food
+milk;le lait;;basic, food
+mushroom;le champignon;;basic, food
+non-alcoholic;sans alcool;;basic, food
+nuts;les noix;;basic, food
+oil;l'huile;;basic, food
+olive;l'olive;;basic, food
+onion;l'oignon;;basic, food
+orange;l'orange;;basic, food
+papaya;la papaye;;basic, food
+passion fruit;le fruit de la passion;;basic, food
+peach;la pêche;;basic, food
+pear;la poire;;basic, food
+pepper;le poivre;;basic, food
+pepper;le poivron;;basic, food
+pineapple;l'ananas;;basic, food
+potato;la pomme de terre, patate;;basic, food
+raspberry;la framboise;;basic, food
+restaurant;le restaurant;;basic, food
+salad;la salade;;basic, food
+salt;le sel;;basic, food
+salty;salé;;basic, food
+spicy;pimenté;;basic, food
+starter;l’entrée;;basic, food
+strawberry;la fraise;;basic, food
+sugar;le sucre;;basic, food
+sweet;sucré;;basic, food
+tea;le thé;;basic, food
+tomato;la tomate;;basic, food
+vegan;végan;;basic, food
+vegetables;les légumes;;basic, food
+vegetarian;végétarien;;basic, food
+water;l’eau;;basic, food
+watermelon;la pastèque;;basic, food
+wine;le vin;;basic, food
+yogurt;le yaourt;;basic, food
+(I/you/we/they) can;pouvoir;;basic, verb
+to ask;demander;;basic, verb
+to be;être;;basic, verb
+to buy;acheter;;basic, verb, shopping
+to call;appeler;;basic, verb
+to drink;boire;;basic, verb
+to eat;manger;;basic, verb
+to give;donner;;basic, verb
+to go;aller;;basic, verb
+to have;avoir;;basic, verb
+to know;savoir;;basic, verb
+to learn;apprendre;;basic, verb
+to make;faire;;basic, verb
+to need;avoir besoin;;basic, verb
+to pay;payer;;basic, verb
+to say;dire;;basic, verb
+to search;chercher;;basic, verb
+to see;voir;;basic, verb
+to stay;rester;;basic, verb
+to take;prendre;;basic, verb
+to visit;visiter;;basic, verb
+to want;vouloir;;basic, verb
+to work;travailler;;basic, verb
+to write;écrire;;basic, verb
+activism;l'activisme;;hobby
+art;l'art;;hobby
+astrology;l'astrologie;;hobby
+board games;les jeux de société;;hobby
+boxing;la boxe;;hobby
+camping;le camping;;hobby
+card games;les jeux de cartes;;hobby
+computer science;l'informatique;;hobby
+cryptography;la cryptographie;;hobby
+cycling;le vélo;;hobby
+dance;la danse;;hobby
+drawing;le dessin;;hobby
+fishing;la pêche;;hobby
+football;le football;;hobby
+foreign languages learning;l'apprentissage de langues étrangères;;hobby
+gardening;la jardinage;;hobby
+gemstones;les pierre précieuses;;hobby
+hiking;la randonnée;;hobby
+jewelry;les bijoux;;hobby
+listening to music;écouter de la musique;;hobby
+makeup;le maquillage;;hobby
+mathematics;les mathématiques;;hobby
+painting;la peinture;;hobby
+photography;la photographie;;hobby
+playing musical instruments;jouer des instruments de musique;;hobby
+quotes;les citations;;hobby
+reading;la lecture;;hobby
+robotics;la robotique;;hobby
+running;la course;;hobby
+sex;le sexe;;hobby
+shopping;le shopping;;hobby
+singing;le chant;;hobby
+skiing;le ski;;hobby
+sport;le sport;;hobby
+video games;les jeux vidéo;;hobby
+volunteering;le volontariat;;hobby
+walking;la marche;;hobby
+watching movies;regarder des films;
+writing;l'écriture;;hobby
+yoga;le yoga;;hobby
+Caution!;Attention !;;basic, communication
+Goodbye! / Bye!;Au revoir !;;basic, communication
+Hello!;Bonjour !;;basic, communication
+here;ici;;basic, communication
+Hi!;Salut !;;basic, communication
+no;non;;basic, communication
+Please!;S'il vous plaît ! / S'il te plaît !;;basic, communication
+Sorry!;Pardon !;;basic, communication
+Stop!;Arrête !;;basic, communication
+Thank you!;Merci !;;basic, communication
+there;là;;basic, communication
+what a shame!;quel dommage !;;basic, communication
+yes;oui;;basic, communication
+algorithm;l'algorithme;;basic, technology
+browser;le navigateur;;basic, technology
+computer;l’ordinateur;;basic, technology
+database;la base de données;;basic, technology
+earphone;l'écouteur;;basic, technology
+encryption;chiffrement;;basic, technology
+file;le fichier;;basic, technology
+firewall;le pare-feu;;basic, technology
+folder;le dossier;;basic, technology
+headphones;le casque;;basic, technology
+internet;l’internet;;basic, technology
+keyboard;le clavier;;basic, technology
+laptop;l’ordinateur portable;;basic, technology
+mouse;la souris;;basic, technology
+network;le réseau;;basic, technology
+operating system;le système d'exploitation;;basic, technology
+password;le mot de passe;;basic, technology
+programming;la programmation;;basic, technology
+query;la requête;;basic, technology
+router;le routeur;;basic, technology
+screen;l'écran;;basic, technology
+search engine;le moteur de recherche;;basic, technology
+socket;la prise;;basic, technology
+software;le logiciel;;basic, technology
+speakers;les enceintes;;basic, technology
+to recharge;charger;;basic, technology, verb
+usb drive;la clé usb;;basic, technology
+website;le site web;;basic, technology
